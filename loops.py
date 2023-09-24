@@ -1,7 +1,9 @@
 # loop structure in python
 
+#creating a lit of numbers(iterable items)
 a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
 
+#we create the loop
 for item in a:
     print(item);
 count = 0;
